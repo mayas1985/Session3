@@ -1,2 +1,4 @@
 language: csharp
 solution: Session3.sln
+notifications:
+  slack: 'mayas1985:J3yW8V1xstwuvr3m1PGr#xpanxion-trainings'
