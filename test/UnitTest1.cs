@@ -8,6 +8,8 @@ namespace test
         [TestMethod]
         public void TestMethod1()
         {
+            Assert.AreEqual(true, true);
+            // test
         }
     }
 }
