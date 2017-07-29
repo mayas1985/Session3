@@ -9,4 +9,7 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.1.11" />
     <Content Include="UnitTest1.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\classlib\classlib.csproj" />
+  </ItemGroup>
 </Project>
