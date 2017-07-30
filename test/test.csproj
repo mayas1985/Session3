@@ -10,6 +10,8 @@
     <Content Include="UnitTest1.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\classlib\classlib.csproj" />
+    <ProjectReference Include="..\MineSweeper\MineSweeper.csproj" />
+    <Content Include="GridTest.cs" />
+    <Content Include="CellTest.cs" />
   </ItemGroup>
 </Project>

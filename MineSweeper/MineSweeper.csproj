@@ -4,6 +4,9 @@
     <TargetFramework>netstandard1.4</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Class1.cs" />
+    <Content Include="Cell.cs" />
+    <Content Include="Grid" />
+    <Content Include="Grid.cs" />
+    <Content Include="CellPosition.cs" />
   </ItemGroup>
 </Project>
